@@ -12,6 +12,6 @@ def my_collect (array)
   collection
 end
 
-my_collect(array) do |i|
+my_collect(languages) do |i|
   i.upcase
 end
